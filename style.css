@@ -1,0 +1,56 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}section{
+    margin: 50px 0px 50px 0px;
+}
+
+.navbar-nav{
+    margin-left: 400px;
+   
+}
+ul li{
+    font-size: 22px;
+    margin-left: 10px;
+    margin-right: 15px;
+    font-weight: 90px;
+}
+.margin-right{
+    padding-left: 10%;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#d62c15 0%,#8f5c22 100%);
+    border-radius: 6px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 12px 8px;
+
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+    display: flex;
+    justify-content:space-between;
+}
+.panda-card-footer h5{
+   font-weight: bold; 
+   font-size: 40px;
+}
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+    border: 0;
+}
+.meetus{
+    max-width: 450px;
+    max-height: 180px;
+    margin-top: 10px;
+}
+.icon {
+    font-size: 30px;
+    margin-right: 10%;
+}
+
